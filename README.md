@@ -4,7 +4,7 @@
 
 # 👋 Sobre
 
-Fala aí! Meu nome é Matheus Felipe.
+Fala aí! Meu nome é Matheus Felipe!
 
 Sou formado em Análise de Sistemas e atualmente atuo como gestor de pessoas.
 
@@ -99,3 +99,4 @@ Este repositório foi criado para registrar toda a minha evolução, desde os es
 # 📈 Evolução
 
 Este repositório será atualizado constantemente durante minha jornada!
+Let's code!

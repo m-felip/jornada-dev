@@ -67,35 +67,6 @@ Este repositório foi criado para registrar toda a minha evolução, desde os es
 ├── 06-certificados
 └── 07-anotacoes
 
-# 🛠 Tecnologias
-
-## Linguagens
-- Python
-- JavaScript
-- SQL
-
-## Front-end
-- HTML
-- CSS
-
-## Back-end
-- Flask
-- Django
-
-## Banco de Dados
-- PostgreSQL
-
-## Ferramentas
-- Git
-- GitHub
-- Docker (futuramente)
-
-## Inteligência Artificial
-- TensorFlow
-- Scikit-Learn
-- OpenAI APIs
-
-
 # 📈 Evolução
 
 Este repositório será atualizado constantemente durante minha jornada!

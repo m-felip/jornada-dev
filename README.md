@@ -58,14 +58,10 @@ Este repositório foi criado para registrar toda a minha evolução, desde os es
 # 📂 Estrutura
 
 📁 jornada-dev
-├── 00-diario
-├── 01-faculdade
-├── 02-preparacao
-├── 03-alura
-├── 04-livros
-├── 05-projetos
-├── 06-certificados
-└── 07-anotacoes
+├── 📁 01-faculdade
+├── 📁 02-alura
+├── 📁 03-livros
+└── 📁 04-projetos
 
 # 📈 Evolução
 

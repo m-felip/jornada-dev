@@ -57,11 +57,10 @@ Este repositório foi criado para registrar toda a minha evolução, desde os es
 
 # 📂 Estrutura
 
-📁 jornada-dev
-├── 📁 01-faculdade
-├── 📁 02-alura
-├── 📁 03-livros
-└── 📁 04-projetos
+📁 01-faculdade
+📁 02-alura
+📁 03-livros
+📁 04-projetos
 
 # 📈 Evolução
 

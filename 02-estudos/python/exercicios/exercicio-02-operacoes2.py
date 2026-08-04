@@ -1,18 +1,18 @@
-#EXERCÍCIO
+# Exercício
 
-#Crie um programa que:
+# Crie um programa que:
 
-#Pergunte o nome do usuário;
-#Pergunte dois números;
-#Calcule:
-#Soma;
-#Subtração;
-#Multiplicação;
-#Divisão;
-#Mostre o nome do usuário;
-#Mostre todos os resultados identificados.
+# Pergunte o nome do usuário;
+# Pergunte dois números;
+# Calcule:
+# Soma;
+# Subtração;
+# Multiplicação;
+# Divisão;
+# Mostre o nome do usuário;
+# Mostre todos os resultados identificados.
 
-#RESPOSTA
+# Resposta
 
 nome = input("Digite seu nome: ")
 numero1 = float(input("Digite o primeiro número: "))

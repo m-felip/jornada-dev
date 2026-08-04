@@ -1,20 +1,20 @@
-#EXERCICIO
+# Exercício
 
-#Crie um programa que:
+# Crie um programa que:
 
-#Pergunte o nome do aluno;
-#Pergunte a nota da primeira prova;
-#Pergunte a nota da segunda prova;
-#Calcule a média das duas notas;
-#Verifique a situação do aluno:
-#Média >= 7 → Aprovado
-#Média >= 5 → Recuperação
-#Média < 5 → Reprovado
-#Mostre o nome do aluno;
-#Mostre a média;
-#Mostre a situação final.
+# Pergunte o nome do aluno;
+# Pergunte a nota da primeira prova;
+# Pergunte a nota da segunda prova;
+# Calcule a média das duas notas;
+# Verifique a situação do aluno:
+# Média >= 7 → Aprovado
+# Média >= 5 → Recuperação
+# Média < 5 → Reprovado
+# Mostre o nome do aluno;
+# Mostre a média;
+# Mostre a situação final.
 
-#RESPOSTA
+# Resposta
 
 nome = input("Digite o nome do aluno: ")
 nota1 = float(input("Digite a nota da primeira prova: "))

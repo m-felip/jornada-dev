@@ -10,7 +10,6 @@ print(f"Bem vindo ao Mercado Dev, {usuario}!")
 
 numero1 = 545
 numero2 = 320
-contador = 1
 opcao = 0
 
 print(f"Aqui, realizaremos operações, simulando um caixa interativo com estes números: {numero1} e {numero2}")
@@ -37,12 +36,12 @@ while opcao != 5:
             print(f"O número {numero2} é o maior")
       
     elif opcao == 3:
-        media = soma / 2
-    print(f"A média dos dois números é:{media}")
+        media = (numero1 + numero2) / 2
+        print(f"A média dos dois números é:{media}")
 
     elif opcao == 4:
-    for numero3 in range(1,5):
-        print(numero3)
+        for numero3 in range(1,6):
+            print(numero3)
 
-else:
-    print("Opção inválida.")
+    else:
+        print("Programa encerrado.")

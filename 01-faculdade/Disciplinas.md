@@ -1,8 +1,8 @@
-# 📚 Disciplinas
+# Disciplinas
 
 Durante a graduação em Tecnólogo em Análise de Sistemas, tive contato com disciplinas que forneceram a base para minha formação em desenvolvimento de software, infraestrutura e tecnologia.
 
-## 🧠 Fundamentos da Computação
+## Fundamentos da Computação
 
 - Pensamento Computacional
 
@@ -12,7 +12,7 @@ Durante a graduação em Tecnólogo em Análise de Sistemas, tive contato com di
 
 - Estrutura de Dados
 
-## 💻 Desenvolvimento de Software
+## Desenvolvimento de Software
 
 - Engenharia de Software
 
@@ -22,25 +22,25 @@ Durante a graduação em Tecnólogo em Análise de Sistemas, tive contato com di
 
 - Desenvolvimento Rápido de Aplicações em Python
 
-## 🌐 Desenvolvimento Web
+## Desenvolvimento Web
 
 - Desenvolvimento Web em HTML5, CSS, JavaScript e PHP
 
-## 🐍 Python
+## Python
 
 - Tópicos de Big Data em Python
 
 - Aplicações de Cloud, IoT e Indústria 4.0 em Python
 
-## 🤖 Inteligência Artificial
+## Inteligência Artificial
 
 - Inteligência Artificial para Devs
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 - Banco de Dados
 
-## 🌍 Sistemas e Infraestrutura
+## Sistemas e Infraestrutura
 
 - Arquitetura de Computadores
 
@@ -50,18 +50,18 @@ Durante a graduação em Tecnólogo em Análise de Sistemas, tive contato com di
 
 - Computação em Nuvem
 
-## 🔒 Segurança da Informação
+## Segurança da Informação
 
 - Introdução à Segurança da Informação
 
 - Desenvolvimento de Software Seguro
 
-## 📐 Análise e Modelagem
+## Análise e Modelagem
 
 - Modelagem de Sistemas em UML
 
 - Sistemas de Informação e Sociedade
 
-## 🎨 Experiência do Usuário
+## Experiência do Usuário
 
 - Engenharia de Usabilidade

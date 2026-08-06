@@ -1,27 +1,25 @@
-# 🚀 Jornada Dev
+# Jornada Dev
 
-> Minha jornada de transição para a carreira em Tecnologia, documentando estudos, projetos e evolução como desenvolvedor.
+Repositório dedicado ao registro da minha evolução em programação, reunindo estudos, exercícios práticos, anotações e futuros projetos.
 
-# 👋 Sobre
+## Sobre
 
-Fala aí! Meu nome é Matheus Felipe!
+Sou formado em Análise e Desenvolvimento de Sistemas e possuo 9 anos de experiência em operações de atendimento, liderança de equipes e gestão de indicadores.
 
-Sou formado em Análise de Sistemas e atualmente atuo como gestor de pessoas.
+Minha trajetória desenvolveu competências como pensamento analítico, resolução de problemas, tomada de decisão e melhoria de processos. Atualmente, direciono essa experiência para a tecnologia, aprofundando meus conhecimentos em lógica e linguagens de programação.
 
-Depois de 7 anos atuando com liderança e indicadores, decidi iniciar uma transição de carreira para a área de Tecnologia, buscando unir minha experiência profissional com o desenvolvimento de software.
+A Jornada Dev registra esse processo, com foco na construção de uma base técnica sólida e na aplicação da tecnologia a problemas reais.
 
-Este repositório foi criado para registrar toda a minha evolução, desde os estudos até a conquista da minha primeira oportunidade como desenvolvedor.
-
-# 🎯 Objetivos
+## Objetivos
 
 - Consolidar meus conhecimentos em programação.
 - Construir um portfólio de projetos.
 - Me especializar em Python, Desenvolvimento Web e fundamentos de IA.
 - Compartilhar minha evolução.
 
-# 🛣️ Roadmap
+## Roadmap
 
-- [x] Tecnólogo em Análise de Sistemas
+- [x] CST Estácio
 - [x] Git e GitHub
 - [ ] Lógica de Programação
 - [ ] Python
@@ -35,14 +33,14 @@ Este repositório foi criado para registrar toda a minha evolução, desde os es
 - [ ] Machine Learning
 - [ ] Deep Learning
 
-# 📚 Livros
+## Livros
 
 - [ ] Entendendo Algoritmos
 - [ ] Clean Code
 - [ ] Refactoring
 - [ ] Design Patterns
 
-# 💻 Projetos
+## Projetos
 
 - [ ] Calculadora
 - [ ] Sistema de Cadastro
@@ -55,14 +53,13 @@ Este repositório foi criado para registrar toda a minha evolução, desde os es
 - [ ] Projeto de Machine Learning
 - [ ] Chatbot com IA
 
-# 📂 Estrutura
+## Estrutura
 
 📁 01-faculdade
-📁 02-alura
+📁 02-estudos
 📁 03-livros
 📁 04-projetos
 
-# 📈 Evolução
+## Evolução
 
-Este repositório será atualizado constantemente durante minha jornada!
-Let's code!
+Este repositório será atualizado constantemente durante minha jornada.

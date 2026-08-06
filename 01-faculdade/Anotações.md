@@ -1,4 +1,4 @@
-📝 Anotações
+# Anotações
 
 ## Objetivo
 

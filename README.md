@@ -53,13 +53,6 @@ A Jornada Dev registra esse processo, com foco na construção de uma base técn
 - [ ] Projeto de Machine Learning
 - [ ] Chatbot com IA
 
-## Estrutura
-
-📁 01-faculdade
-📁 02-estudos
-📁 03-livros
-📁 04-projetos
-
 ## Evolução
 
 Este repositório será atualizado constantemente durante minha jornada.

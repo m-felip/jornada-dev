@@ -9,6 +9,7 @@
 # Opção 5 - Mostrar quantidade
 # Opção 6 - Sair
 
+# Resposta
 
 playlist = []
 opcao = 0
